@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshithanagashreeR
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Coding subject(python),(web development)
-- 💞️ I’m looking to collaborate on ...more intresting projects related to python
+-  I’m looking to collaborate on ...more intresting projects related to python
 - 😄 Pronouns: ...she
 
 
